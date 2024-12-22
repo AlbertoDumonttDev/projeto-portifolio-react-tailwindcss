@@ -44,7 +44,7 @@ const Hero = () => {
                         className="my-2 max-w-xl py-6 font-light tracking-tight">
                             {HERO_CONTENT}
                     </motion.p>
-                    <div>
+                    <div className="mb-8">
                         <motion.a
                             variants={container(1.5)}
                             initial="hidden"
