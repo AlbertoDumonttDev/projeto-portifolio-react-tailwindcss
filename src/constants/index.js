@@ -46,7 +46,7 @@ export const PROJECTS = [
     image: project1,
     ref: "https://github.com/RaccoonTechnologyManagement/RaccoonTechnologyManagement",
     description:
-      "A comprehensive solution to meet the needs of IT departments, developed for capstone project. The system offers features such as: IT Asset Management, Call Management, Notices, Business Intelligence and Monitoring.",
+      "A comprehensive solution to meet the needs of IT departments, developed for capstone project. The system offers features such as: IT Asset Management, Tickets Management, Notices, Business Intelligence and Monitoring.",
     technologies: ["HTML", "CSS", "React", "Node.js", "Express", "PostgreSQL"],
   }
 ];
