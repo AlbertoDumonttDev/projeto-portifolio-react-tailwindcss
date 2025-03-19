@@ -16,7 +16,7 @@ Collaborate in the creation of solutions that increase the usability of the syst
   },
   {
     year: "2023 - 2024",
-    role: "IT Manager",
+    role: "AI & IT Infrastructure Specialist",
     company: "Cartório de Registro de Imóveis de Cabreúva",
     description: `I worked as a IT Manager at the Cabreúva Property Registry Office, assuming various responsibilities in the IT infrastructure and data management. I created and managed Linux servers, implementing and maintaining essential systems for the notary's operations. My experience with AWS was remarkable, involving the configuration and maintenance of services such as AWS Bedrock, AWS IAM, AWS S3 and AWS EC2. Developed Python scripts to automate processes and integrate third-party APIs, resulting in a significant improvement in operational efficiency and data security.
 Additionally, I explored the Google Cloud platform, using services like Google Storage to store crucial registry data. This work included the configuration and management of cloud resources, contributing to the modernization of infrastructure and optimization of internal processes. I also worked on the implementation and standardization of the registry regarding the LGPD, actively contributing to the creation and documentation of the necessary standards to ensure compliance and data protection. I also highlight my experience with Artificial Intelligence, where I worked with platforms such as OpenAI, Gemini and Claude. I developed skills in prompt engineering, creating models and integrating AI APIs, optimizing automated processes and offering innovative solutions for data management and operations.`,
@@ -24,7 +24,7 @@ Additionally, I explored the Google Cloud platform, using services like Google S
   },
   {
     year: "2023 - 2023",
-    role: "IT Support",
+    role: "IT Support Technician",
     company: "Open Internet",
     description: `I worked as IT support, performing a variety of functions related to infrastructure and technical support. Configured and implemented monitoring using Zabbix 6, ensuring the integrity and performance of the systems. Developed scripts in Bash and Batch to automate routine tasks, increasing the area's operational efficiency. I was responsible for hardware maintenance, carrying out diagnostics and repairs on computers and peripheral devices. Installed and configured software, ensuring that systems were always up to date and functioning correctly.
 I took care of the installation and configuration of printers, ensuring their integration with network systems. Led remote access, providing technical support to internal and external users whenever necessary. My experience covers both Windows environments and Linux servers, where I performed administration and maintenance tasks. Furthermore, I have skills in manipulating MySQL and PostgreSQL databases, contributing to effective data management.`,
