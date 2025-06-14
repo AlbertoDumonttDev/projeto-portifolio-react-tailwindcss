@@ -1,5 +1,5 @@
 import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
+import project2 from "../assets/projects/project-2.png";
 
 export const HERO_CONTENT = `I am a dedicated software engineer focused on developing complete and efficient applications. I have experience with front-end technologies such as Vue.js and React, as well as back-end technologies like Node.js, PHP, Python, and both relational and non-relational databases. My focus is on creating innovative and scalable solutions that meet user needs and drive business results.`;
 
