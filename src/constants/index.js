@@ -48,6 +48,14 @@ export const PROJECTS = [
     description:
       "A comprehensive solution to meet the needs of IT departments, developed for capstone project. The system offers features such as: IT Asset Management, Tickets Management, Notices, Business Intelligence and Monitoring.",
     technologies: ["HTML", "CSS", "React", "Node.js", "Express", "PostgreSQL"],
+  },
+  {
+    title: "DevSpecAI",
+    image: projetc2,
+    ref: "https://github.com/AlbertoDumonttDev/devSpecIA",
+    description:
+      "An AI-driven project specification generator. Built as a fullstack application with a backend focus on Spring Boot. Integrates with Cohere AI to generate tailored project ideas based on user profile, technologies, and career goals. Dockerized and deployed on Render.",
+    technologies: ["Java", "Spring Boot", "React.js", "Docker", "Cohere AI", "Render"]
   }
 ];
 
