@@ -9,7 +9,7 @@ Throughout my career, I have continuously honed my expertise in both front-end a
 export const EXPERIENCES = [
   {
     year: "2024 - Present",
-    role: "Junior Software Engineer",
+    role: "Junior Software Developer",
     company: "E-Trust",
     description: `I contribute to the maintenance and development of new features in the Horacius identity management system, using technologies such as Vue.js, jQuery, JavaScript, PHP, MySQL, SVN and AWS (IAM). Implementation of agile Kanban methodologies in JIRA, optimizing team efficiency. I perform code tests and reviews, improving code quality and promoting good development practices.
 Collaborate in the creation of solutions that increase the usability of the system, positively impacting the user experience. Participate in identifying bugs and resolving problems, contributing to system stability. I take a customer-focused approach, ensuring that new features meet the needs of end users. Improve internal processes through documenting practices and exchanging knowledge with the team, resulting in a collaborative and productive environment.`,
@@ -17,7 +17,7 @@ Collaborate in the creation of solutions that increase the usability of the syst
   },
   {
     year: "2023 - 2024",
-    role: "AI & IT Infrastructure Specialist",
+    role: "AI & IT Infrastructure",
     company: "Cartório de Registro de Imóveis de Cabreúva",
     description: `I worked as a IT Manager at the Cabreúva Property Registry Office, assuming various responsibilities in the IT infrastructure and data management. I created and managed Linux servers, implementing and maintaining essential systems for the notary's operations. My experience with AWS was remarkable, involving the configuration and maintenance of services such as AWS Bedrock, AWS IAM, AWS S3 and AWS EC2. Developed Python scripts to automate processes and integrate third-party APIs, resulting in a significant improvement in operational efficiency and data security.
 Additionally, I explored the Google Cloud platform, using services like Google Storage to store crucial registry data. This work included the configuration and management of cloud resources, contributing to the modernization of infrastructure and optimization of internal processes. I also worked on the implementation and standardization of the registry regarding the LGPD, actively contributing to the creation and documentation of the necessary standards to ensure compliance and data protection. I also highlight my experience with Artificial Intelligence, where I worked with platforms such as OpenAI, Gemini and Claude. I developed skills in prompt engineering, creating models and integrating AI APIs, optimizing automated processes and offering innovative solutions for data management and operations.`,
@@ -53,7 +53,7 @@ export const PROJECTS = [
   {
     title: "DevSpecAI",
     image: project2,
-    ref: "https://github.com/AlbertoDumonttDev/devSpecIA",
+    ref: "https://github.com/AlbertoDumonttDev/DevSpecAI",
     description:
       "An AI-driven project specification generator. Built as a fullstack application with a backend focus on Spring Boot. Integrates with Cohere AI to generate tailored project ideas based on user profile, technologies, and career goals. Dockerized and deployed on Render.",
     technologies: ["Java", "Spring Boot", "React.js", "Docker", "Cohere AI", "Render"]
