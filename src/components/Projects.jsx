@@ -21,6 +21,11 @@ const Projects = () => {
                         transition={{ duration: 0.5 }}
                         className="w-full lg:w-1/4 flex justify-center items-center mb-4 lg:mb-0"
                     >
+                        <a
+                        href={project.ref}
+                        target="_blank"
+                        rel="noreferrer"
+                        >
                         <img
                             src={project.image}
                             width={150}
@@ -28,6 +33,7 @@ const Projects = () => {
                             alt={project.title}
                             className="mb-6 rounded"
                         />
+                        </a>
                     </motion.div>
                     <motion.div
                         whileInView={{ opacity: 1, x: 0 }}

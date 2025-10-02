@@ -35,7 +35,7 @@ const Hero = () => {
                         initial="hidden"
                         animate="visible"
                         className="bg-gradient-to-r from-pink-200 visa-slate-300 to-purple-300 bg-clip-text text-3xl tracking-tight text-transparent">
-                            Software Engineer
+                            Software Developer
                     </motion.span>
                     <motion.p
                         variants={container(1)}

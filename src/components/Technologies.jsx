@@ -1,7 +1,8 @@
 import { RiReactjsLine } from "react-icons/ri";
-import { FaHtml5, FaCss3Alt, FaJsSquare, FaVuejs, FaNodeJs, FaPhp, FaPython, FaDatabase } from "react-icons/fa";
-import { SiMysql, SiPostgresql } from "react-icons/si";
-import { animate, motion } from "framer-motion";
+import { FaJava, FaVuejs, FaNodeJs, FaPhp, FaPython } from "react-icons/fa";
+import { SiMysql, SiPostgresql, SiSpringboot } from "react-icons/si";
+import { TbBrandMongodb } from "react-icons/tb";
+import { motion } from "framer-motion";
 
 const iconVariants = (duration) => ({
     initial : { 
@@ -41,7 +42,7 @@ const Technologies = () => {
             animate="animate"
             className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-            <FaHtml5 className="text-7xl text-orange-600"/>
+            <FaJava  className="text-7xl text-blue-600"/>
         </motion.div>
         <motion.div
             variants={iconVariants(6)}
@@ -49,31 +50,7 @@ const Technologies = () => {
             animate="animate"
             className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-            <FaCss3Alt className="text-7xl text-blue-600"/>
-        </motion.div>
-        <motion.div
-            variants={iconVariants(2)}
-            initial="initial"
-            animate="animate"
-            className="rounded-2xl border-4 border-neutral-800 p-4"
-        >
-            <FaJsSquare className="text-7xl text-yellow-500"/>
-        </motion.div>
-        <motion.div
-            variants={iconVariants(4)}
-            initial="initial"
-            animate="animate"
-            className="rounded-2xl border-4 border-neutral-800 p-4"
-        >
-            <RiReactjsLine className="text-7xl text-cyan-400"/>
-        </motion.div>
-        <motion.div
-            variants={iconVariants(2.5)}
-            initial="initial"
-            animate="animate"
-            className="rounded-2xl border-4 border-neutral-800 p-4"
-        >
-            <FaVuejs className="text-7xl text-green-500"/>
+            <SiSpringboot className="text-7xl text-green-600"/>
         </motion.div>
         <motion.div
             variants={iconVariants(3)}
@@ -100,6 +77,22 @@ const Technologies = () => {
             <FaPython className="text-7xl text-yellow-400"/>
         </motion.div>
         <motion.div
+            variants={iconVariants(4)}
+            initial="initial"
+            animate="animate"
+            className="rounded-2xl border-4 border-neutral-800 p-4"
+        >
+            <RiReactjsLine className="text-7xl text-cyan-400"/>
+        </motion.div>
+        <motion.div
+            variants={iconVariants(2.5)}
+            initial="initial"
+            animate="animate"
+            className="rounded-2xl border-4 border-neutral-800 p-4"
+        >
+            <FaVuejs className="text-7xl text-green-500"/>
+        </motion.div>
+        <motion.div
             variants={iconVariants(5)}
             initial="initial"
             animate="animate" 
@@ -114,6 +107,14 @@ const Technologies = () => {
             className="rounded-2xl border-4 border-neutral-800 p-4"
         >
             <SiPostgresql className="text-7xl text-blue-700"/>
+        </motion.div>
+        <motion.div
+            variants={iconVariants(4)}
+            initial="initial"
+            animate="animate" 
+            className="rounded-2xl border-4 border-neutral-800 p-4"
+        >
+            <TbBrandMongodb className="text-7xl text-green-700"/>
         </motion.div>
       </motion.div>
     </div>

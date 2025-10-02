@@ -37,7 +37,7 @@ const Contact = () => {
               </motion.p>
             </a>
             <a 
-              href="mailto:albertodumonttdev@outlook.com" 
+              href="mailto:albertodumonttsf@outlook.com" 
               target="_blank" 
               rel="noreferrer"
               className="border-b"
