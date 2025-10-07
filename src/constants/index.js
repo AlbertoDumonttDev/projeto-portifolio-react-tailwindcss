@@ -9,8 +9,15 @@ Throughout my career, I have continuously honed my expertise in both front-end a
 
 export const EXPERIENCES = [
   {
+    year: "10/2025 - Present",
+    role: "Mid-level Developer",
+    company: "Imunisys",
+    description: ``,
+    technologies: [],
+  },
+  {
     year: "03/2024 - 10/2025",
-    role: "Junior Software Developer",
+    role: "Junior Developer",
     company: "E-Trust",
     description: `Maintaining and developing new features in the Horacius identity management system, using technologies such as Vue.js, jQuery, JavaScript, PHP, MySQL, SVN, and AWS (IAM). I implement agile Kanban methodologies in JIRA, optimizing team efficiency. I conduct tests and code reviews, improving code quality and promoting best development practices. I collaborate in creating solutions that enhance system usability, positively impacting user experience. I participate in bug identification and problem-solving, contributing to system stability. I adopt a customer-centric approach, ensuring that new features meet end-user needs. I improve internal processes through documentation of best practices and knowledge sharing with the team, fostering a collaborative and productive environment. Additionally, I have experience with GitLab for CI/CD pipelines and version control, MongoDB for scalable data management, and cross-review of issues in Java with Spring Framework. I also contribute to projects in Laravel and PHP, ensuring alignment with coding standards and system requirements.`,
     technologies: ["PHP", "Laravel", "Java", "Springboot", "Javascript", "JQuery", "Vue.js", "MySQL", "MongoDB", "SVN", "Git", "Gitlab"],
